@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load model and scaler
-with open('logistic_model.pkl', 'rb') as f:
+with open('Logistic_Regression/logistic_model.pkl', 'rb') as f:
     data = pickle.load(f)
     theta = data['theta']
     scaler = data['scaler']
