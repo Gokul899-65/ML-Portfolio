@@ -59,6 +59,6 @@ if st.button("Predict"):
 
     st.subheader("Prediction Result")
     if prediction == 1:
-        st.success(f"✅ The tumor is **Benign** with probability {probability:.2f}")
+        st.success(f"✅ The tumor is **Begining** with probability {probability:.2f}")
     else:
         st.error(f"⚠️ The tumor is **Malignant** with probability {probability:.2f}")
