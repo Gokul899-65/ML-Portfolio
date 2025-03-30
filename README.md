@@ -79,3 +79,8 @@ jupyter notebook
 ```bash
 pip install numpy pandas matplotlib scikit-learn tensorflow keras
 ```
+## References
+
+1. Github - (https://github.com/mohd-faizy/Machine-Learning-Algorithms/tree/master)
+2. Kaggle
+3. Chat GPT
