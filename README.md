@@ -12,8 +12,8 @@
 - [📂 Project Showcase](#project-showcase)
 - [🛠 Tech Stack](#tech-stack)
 - [🚀 How to Run](#how-to-run)
-- [📈 GitHub Stats](#github-stats)
-- [📫 Contact](#contact)
+- [References](#references)
+- [Live Streaming App](#live-streaming-app)
 
 ---
 
@@ -84,3 +84,8 @@ pip install numpy pandas matplotlib scikit-learn tensorflow keras
 1. Github - (https://github.com/mohd-faizy/Machine-Learning-Algorithms/tree/master)
 2. Kaggle
 3. Chat GPT
+
+## Live Streaming App
+
+Deployed Logistic Regression using Streamlit:
+Prediction of Breast Cancer - (https://ml-portfolio-juxmnwalcmtfshz5f9vrw7.streamlit.app/)
